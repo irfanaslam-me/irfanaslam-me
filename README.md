@@ -1,6 +1,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=irfanaslam-me&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/irfanaslam-me)
- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3> 
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 
 
 
@@ -16,7 +16,7 @@
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
-        ![Github stats](https://github-readme-stats.vercel.app/api?username=irfanaslam-me&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=irfanaslam-me&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaslam-me&theme=radical&layout=compact)](https://github.com/irfanaslam-me) </td>
    </tr>
   </table>
@@ -115,9 +115,9 @@
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
 <p>
-  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:engr.irfan641@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/923457023915" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/irfanaslam-me" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
 
@@ -126,19 +126,3 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-<!--
-**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...##Python & Django
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
-
--->
