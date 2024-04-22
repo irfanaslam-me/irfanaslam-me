@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfanaslam-me/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:engr.irfan641@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=irfanaslam-me&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/irfanaslam.me)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
@@ -100,18 +100,13 @@
  
  
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
+<a href="https://github.com/irfanaslam-me/linux-zero-to-hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=linux-zero-to-hero" />
 </a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
+<a href="https://github.com/irfanaslam-me/Linux-Scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=Linux-Scripts" />
 </a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
-</a>
- <a href="https://github.com/yeazin/Zooming-cls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
-</a>
+
 
 <br>
 <br>
