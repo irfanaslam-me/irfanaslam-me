@@ -1,6 +1,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=irfanaslam-me&data=followers,repositories,commits&theme=viridescent)](https://github.com/irfanaslam-me)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3> 
 
 
 
@@ -8,10 +8,9 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:engr.irfan641@gmail.com)
 ![](https://komarev.com/ghpvc/?username=irfanaslam-me&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/irfanaslam.me)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught software Developer. I have a profound knowledge in Linux Servers, cloud computing and Django. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught Software Developer. I have a profound knowledge of Linux Servers, cloud computing, and Django. I love to work with new Technologies and like to learn new things every time.<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -71,7 +70,7 @@
        <img alt="css" height=64px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
      </td>   
     <td align="center">
-       <img alt="bash" height=64px src="hhttps://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
      </td> 
        <td align="center">
        <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
@@ -116,9 +115,9 @@
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
 
 <p>
-  <a href="mailto:naz.yeasin@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="wa.me/01672834142" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeazin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="mailto:engr.irfan641@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/923457023915" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/irfanaslam-me" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
 </p>
 
 
