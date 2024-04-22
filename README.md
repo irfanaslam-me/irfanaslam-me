@@ -11,7 +11,7 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught Software Developer. I have a profound knowledge of Linux Servers, cloud computing, and Django. I love to work with new Technologies and like to learn new things every time.<h4>
+<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught software Developer. I have a profound knowledge in Linux Servers, cloud computing and Django. I love to work with new Technologies and like to learn new things everytime .<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
@@ -30,60 +30,60 @@
  <table width="100% height="100%" align="center">
    <tr>
       <td>
-        <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
      </td>
      <td>
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="Ubuntu" height=64px src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg">
      </td>
           <td align="center">
-       <img alt="css" height=64px src= "https://storage.caktusgroup.com/media/blog-images/drf-logo2.png">
+       <img alt="Digital Ocean" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg">
      </td>
-      <td align="center">
-      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </td>
-          <td align="center">
-       <img alt="React" height=64px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-     </td> 
-     <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    </td>
-     <td align="center">
-       <img alt="css" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-     </td>
-     <td align="center">
-       <img alt="vscode" height=64px src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-     </td> 
-      <td align="center">
+    <td align="center">
        <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+     </td> 
+          <td align="center">
+       <img alt="Debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg">
+     </td> 
+     <td align="center">
+      <img alt="psql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    </td>
+     <td align="center">
+       <img alt="github actions" height=64px src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
+     </td>
+     <td align="center">
+       <img alt="google cloud" height=64px src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+     </td> 
+      <td align="center">
+       <img alt="Azure Cloud" height=64px src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
      </td> 
    </tr>
    <tr>
           <td align="center">
-       <img alt="pycahrm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+       <img alt="Python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      </td> 
      <td align="center">
-       <img alt="git" height=64px src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+       <img alt="Django" height=64px src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
      </td>
         <td align="center">
-       <img alt="bash" height=64px src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
+       <img alt="html" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
      </td>
     <td align="center">
-       <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+       <img alt="css" height=64px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
      </td>   
     <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+       <img alt="bash" height=64px src="hhttps://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
      </td> 
        <td align="center">
-       <img alt="debian" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-     </td>  
-    <td align="center">
        <img alt="wordpress" height=64px src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
      </td> 
+       <td align="center">
+       <img alt="Apache" height=64px src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+     </td>  
+    <td align="center">
+       <img alt="nginx" height=64px src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+     </td> 
      <td align="center">
-       <img alt="html5" height=64px src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+       <img alt="kubernetes" height=64px src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">
      </td> 
    </tr>
 
@@ -127,19 +127,4 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-<!--
-**yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...##Python & Django
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://github.com/yeazin/stargazers"><img src="https://img.shields.io/github/stars/yeazin" alt="Stars Badge"/></a>
-
--->
