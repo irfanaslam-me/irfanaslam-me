@@ -8,7 +8,6 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:engr.irfan641@gmail.com)
 ![](https://komarev.com/ghpvc/?username=irfanaslam-me&color=brightgreen&style=for-the-badge)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/irfanaslam.me)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 <h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught Software Developer. I have a profound knowledge of Linux Servers, cloud computing, and Django. I love to work with new Technologies and like to learn new things every time.<h4>
 
