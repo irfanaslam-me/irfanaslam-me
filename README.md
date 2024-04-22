@@ -11,13 +11,12 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught software Developer. I have a profound knowledge in Linux Servers, cloud computing and Django. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>Hi I am Irfan 💇‍♂️ , a passoniate DevOps Engineer from Pakistan.I am an experienced Systems Engineer and Self-taught Software Developer. I have a profound knowledge of Linux Servers, cloud computing, and Django. I love to work with new Technologies and like to learn new things every time.<h4>
 
  <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=irfanaslam-me&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+        ![Github stats](https://github-readme-stats.vercel.app/api?username=irfanaslam-me&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaslam-me&theme=radical&layout=compact)](https://github.com/irfanaslam-me) </td>
    </tr>
   </table>
