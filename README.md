@@ -101,9 +101,9 @@
 <a href="https://github.com/irfanaslam-me/linux-zero-to-hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=linux-zero-to-hero" />
 </a>
-<a href="https://github.com/irfanaslam-me/Linux-Scripts">
+<!-- <a href="https://github.com/irfanaslam-me/Linux-Scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanaslam-me&theme=react&repo=Linux-Scripts" />
-</a>
+</a> -->
 
 
 <br>
